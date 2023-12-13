@@ -1,4 +1,4 @@
-<h1 align="center"> TSP-Tunisia: Solving the Traveling Salesperson Problem for Tunisia </h1>
+<h2 align="center"> TSP-Tunisia: Solving the Traveling Salesperson Problem for Tunisia </h2>
  
 The objective of the TSP-Tunisia project was to apply Graph Theory concepts to determine the most efficient way to traverse through all 24 states in Tunisia while covering the shortest possible distance. The Traveling Salesperson Problem (TSP) served as the foundation for modeling this problem, aiming to find the shortest path that visits each city exactly once and returns to the starting point.
 
